@@ -1,0 +1,76 @@
+id,name,created_at,lic,ProdutosCadastrados,city,state,segment,Vendedor_id,Source_id
+225,BurgersJammy,2020-03-31,t1,64.0,Campinas,SP,Hamburgueria,1,1
+744,A Hamburgueria,2020-03-31,t1,118.0,São Paulo,SP,Hamburgueria,1,1
+1084,Espaço Gourmet,2020-03-31,t1,185.0,São Paulo,SP,Empório,1,1
+1254,Manga,2020-03-31,t1,89.0,Santos,SP,Restaurante Tipo A,1,1
+1674,RicardinBar,2020-03-31,t2,63.0,Guarujá,SP,Bar/Boteco,1,2
+1761,Forno e Fogão,2020-03-31,t1,146.0,Hortolândia,SP,Restaurante Tipo A,1,3
+2497,TEMAKERIA,2020-03-31,t0,94.0,Sumaré,SP,Japonês,2,2
+2623,MEATS DO BRASIL,2020-03-31,t0,20.0,Sorocaba,SP,Restaurante Tipo A,2,3
+2954,Faca pontuda,2020-03-31,t0,22.0,Sorocaba,SP,Restaurante Tipo A,2,4
+3072,Zuppa,2020-03-31,t0,8.0,São Paulo,SP,Japonês,2,4
+3095,Sampa,2020-03-31,t0,74.0,Sorocaba,SP,Bar/Boteco,3,5
+3300,Bar do Zé,2020-04-01,t0,222.0,Guarujá,SP,Bar/Boteco,3,5
+3471,Alimentos Artesanais,2020-04-02,t0,12.0,Hortolândia,SP,Empório,4,5
+3521,COOKIES,2020-04-02,t0,21.0,Sumaré,SP,Café/Doceria/Encomenda,4,6
+3766,Bar da Alemanha,2020-04-03,t0,34.0,Sorocaba,SP,Bar/Boteco,4,6
+3902,Lanches D+,2020-04-04,t0,43.0,Barueri,SP,Hamburgueria,5,6
+3936,El Mexicanito,2020-04-04,t0,44.0,Sorocaba,SP,Bar/Boteco,5,1
+3975,BAR DA RESENHA,2020-04-04,t0,5.0,Campinas,SP,Bar/Boteco,5,1
+4028,JEQUIE,2020-04-05,t0,93.0,São Paulo,SP,Restaurante Tipo A,5,1
+4246,Donuts,2020-04-06,t0,89.0,Santos,SP,Café/Doceria/Encomenda,5,1
+4347,Quero Café,2020-04-07,t0,160.0,Santos,SP,Café/Doceria/Encomenda,6,2
+4440,Burguerzera,2020-04-07,t0,0.0,Sorocaba,SP,Hamburgueria,6,3
+4479,Meda Bier,2020-04-08,t0,12.0,Tatuí,SP,Bar/Boteco,6,2
+4627,Produtos Organicos,2020-04-08,t0,334.0,Guarujá,SP,Empório,9,3
+5004,568 bar,2020-04-10,t0,146.0,Sumaré,SP,Bar/Boteco,9,4
+5296,Pizza Quadrada,2020-04-11,t0,10.0,Americana,SP,Pizzaria,10,4
+5315,Mary e Ana - Beach Bar,2020-04-11,t0,93.0,Ubatuba,SP,Bar/Boteco,11,5
+5805,Doces e Salgados da tia,2020-04-13,t0,40.0,Assis,SP,Café/Doceria/Encomenda,7,5
+6018,Be FIT,2020-04-14,t2,11.0,Campinas,SP,Restaurante Tipo A,7,5
+6089,Karolaine Cake,2020-04-14,t2,4.0,São Paulo,SP,Café/Doceria/Encomenda,7,6
+6270,Narguileira,2020-04-15,t1,42.0,São Paulo,SP,Bar/Boteco,7,6
+6374,CoffeeShop Bistro,2020-04-15,t2,32.0,Santos,SP,Café/Doceria/Encomenda,7,6
+6412,Churrasquin de gato,2020-04-15,t2,33.0,Guarujá,SP,Restaurante Tipo A,10,6
+6513,Delivery Top,2020-04-15,t2,50.0,Hortolândia,SP,Hamburgueria,10,6
+7228,Espaço Lourdes,2020-04-18,t1,4.0,Sumaré,SP,Empório,10,6
+7252,Pomodoro restaurante,2020-04-18,t2,64.0,Sorocaba,SP,Restaurante Tipo A,11,6
+7479,Cake da Magrela,2020-04-19,t2,63.0,Sorocaba,SP,Café/Doceria/Encomenda,11,1
+7837,Sorvetes Artesanais,2020-04-20,t2,27.0,São Paulo,SP,Café/Doceria/Encomenda,11,1
+8056,Saionara,2020-04-21,t2,13.0,Sorocaba,SP,Japonês,6,1
+8061,Delicias da Vicky,2020-04-21,t1,26.0,Sorocaba,SP,Empório,6,1
+8240,Pão Nosso,2020-04-22,t2,173.0,Campinas,SP,Padaria,5,2
+8614,MarryMe Doces,2020-04-23,t2,15.0,São Paulo,SP,Café/Doceria/Encomenda,5,3
+8754,LoungeBar,2020-04-24,t0,86.0,São Caetano,SP,Bar/Boteco,5,2
+8802,Barzinho da Esquina,2020-04-24,t2,27.0,Barueri,SP,Bar/Boteco,7,3
+8896,Passione Ristorante,2020-04-24,t0,17.0,Sorocaba,SP,Restaurante Tipo A,7,4
+8987,Praça 12 de Março,2020-04-25,t2,30.0,Campinas,SP,Bar/Boteco,7,4
+9021,TopTop Delivery,2020-04-25,t2,38.0,São Paulo,SP,Japonês,7,5
+9126,Burguer da Silva,2020-04-25,t1,6.0,Santos,SP,Hamburgueria,5,5
+9183,Crepiossauro,2020-04-25,t0,16.0,Santos,SP,Restaurante Tipo A,6,5
+9364,MixMaki,2020-04-26,t2,11.0,Sorocaba,SP,Japonês,6,6
+9386,Miau Churras,2020-04-26,t1,26.0,Santos,SP,Bar/Boteco,6,6
+9571,Falafel,2020-04-27,t0,19.0,Santos,SP,Restaurante Tipo A,6,6
+10083,EXPRESS GOURMET,2020-04-28,t2,19.0,Sorocaba,SP,Restaurante Tipo A,9,6
+10422,Braga Doces,2020-04-29,t1,8.0,Tatuí,SP,Café/Doceria/Encomenda,9,6
+10840,Fogo e lenha,2020-04-30,t0,81.0,Guarujá,SP,Restaurante Tipo A,9,4
+10896,Bar do reduto,2020-04-30,t2,42.0,Sumaré,SP,Bar/Boteco,11,4
+11108,Casa do espetop,2020-05-01,t0,88.0,Americana,SP,Restaurante Tipo A,11,5
+11132,SushiBoni,2020-05-01,t2,182.0,Ubatuba,SP,Japonês,11,5
+11413,Patriarca Emporio,2020-05-02,t1,3.0,Assis,SP,Empório,11,5
+11617,Alimentos do Nordeste,2020-05-03,t1,22.0,Santos,SP,Restaurante Tipo A,1,6
+11688,Padoca da Bela,2020-05-03,t0,7.0,Guarujá,SP,Padaria,1,4
+12918,Faceburguer,2020-05-06,t0,1.0,Hortolândia,SP,Hamburgueria,2,4
+12961,KAMIKAZE,2020-05-07,t1,2.0,Sumaré,SP,Japonês,3,5
+13375,Dogão do Dril,2020-05-07,t0,37.0,Sorocaba,SP,Hamburgueria,4,5
+13969,Bear Bar,2020-05-09,t2,64.0,Sorocaba,SP,Bar/Boteco,5,5
+14092,Xis,2020-05-10,t1,32.0,São Paulo,SP,Restaurante Tipo A,6,6
+14342,Varanda Ristorante,2020-05-11,t1,35.0,Sorocaba,SP,Restaurante Tipo A,7,4
+14878,Corujão,2020-05-12,t1,3.0,Sorocaba,SP,Restaurante Tipo A,8,4
+14885,Biermarkt,2020-05-12,t2,44.0,Campinas,SP,Restaurante Tipo A,9,5
+15681,Nabraza Burger,2020-05-14,t0,61.0,São Paulo,SP,Hamburgueria,10,5
+15810,Lata Véia,2020-05-14,t2,34.0,São Caetano,SP,Bar/Boteco,11,5
+15921,Kalanga Pães,2020-05-14,t1,50.0,Barueri,SP,Padaria,5,6
+16184,Cantina da tia Cintia,2020-05-15,t0,11.0,Sorocaba,SP,Empório,4,1
+16491,Caldos e Sopas,2020-05-15,t2,29.0,Campinas,SP,Café/Doceria/Encomenda,3,2
+17084,CarLF,2020-05-17,t1,4.0,São Paulo,SP,Restaurante Tipo A,2,3
