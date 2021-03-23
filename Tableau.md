@@ -1,0 +1,3 @@
+# Tableau
+
+Perguntas, qual é o estado mais rentável e o que mais deu prejuízo?
